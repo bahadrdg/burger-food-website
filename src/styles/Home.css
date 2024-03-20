@@ -1,0 +1,29 @@
+.mainPage{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: left;
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.order{
+    width: auto;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.order button{
+    width: 130px;
+    border: none;
+    cursor: pointer;
+    background-color: brown;
+    height: 50px;
+    color: white;
+    font-size: 20px;
+    border-radius: 30px;
+
+}
